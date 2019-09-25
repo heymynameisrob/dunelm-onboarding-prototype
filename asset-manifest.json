@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dunelm-onboarding-prototype/static/css/main.981d6f97.chunk.css",
+    "main.js": "/dunelm-onboarding-prototype/static/js/main.0f660696.chunk.js",
+    "main.js.map": "/dunelm-onboarding-prototype/static/js/main.0f660696.chunk.js.map",
+    "runtime-main.js": "/dunelm-onboarding-prototype/static/js/runtime-main.d0776fad.js",
+    "runtime-main.js.map": "/dunelm-onboarding-prototype/static/js/runtime-main.d0776fad.js.map",
+    "static/js/2.62ab524f.chunk.js": "/dunelm-onboarding-prototype/static/js/2.62ab524f.chunk.js",
+    "static/js/2.62ab524f.chunk.js.map": "/dunelm-onboarding-prototype/static/js/2.62ab524f.chunk.js.map",
+    "index.html": "/dunelm-onboarding-prototype/index.html",
+    "precache-manifest.75a093f3952ae35fd37d0bd24ae86557.js": "/dunelm-onboarding-prototype/precache-manifest.75a093f3952ae35fd37d0bd24ae86557.js",
+    "service-worker.js": "/dunelm-onboarding-prototype/service-worker.js",
+    "static/css/main.981d6f97.chunk.css.map": "/dunelm-onboarding-prototype/static/css/main.981d6f97.chunk.css.map",
+    "static/media/Ribbon.svg": "/dunelm-onboarding-prototype/static/media/Ribbon.65fd2d4b.svg",
+    "static/media/arrow-left.svg": "/dunelm-onboarding-prototype/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/award.svg": "/dunelm-onboarding-prototype/static/media/award.0cf9a246.svg",
+    "static/media/check-circle.svg": "/dunelm-onboarding-prototype/static/media/check-circle.3c4e925b.svg",
+    "static/media/clock.svg": "/dunelm-onboarding-prototype/static/media/clock.dd87b914.svg",
+    "static/media/homelovers.jpg": "/dunelm-onboarding-prototype/static/media/homelovers.38319852.jpg",
+    "static/media/shopping-bag.svg": "/dunelm-onboarding-prototype/static/media/shopping-bag.253d4a79.svg",
+    "static/media/tea.svg": "/dunelm-onboarding-prototype/static/media/tea.7b0396d7.svg",
+    "static/media/truck.svg": "/dunelm-onboarding-prototype/static/media/truck.deff90c0.svg",
+    "static/media/zap.svg": "/dunelm-onboarding-prototype/static/media/zap.8872226f.svg"
+  }
+}
