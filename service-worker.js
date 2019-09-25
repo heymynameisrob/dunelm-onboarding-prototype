@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dunelm-onboarding-prototype/precache-manifest.75a093f3952ae35fd37d0bd24ae86557.js"
+  "/dunelm-onboarding-prototype/precache-manifest.7aa7f1578014a2996974b4c0b39e1513.js"
 );
 
 self.addEventListener('message', (event) => {
